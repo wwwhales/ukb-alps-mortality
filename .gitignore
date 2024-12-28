@@ -1,0 +1,16 @@
+# Data files
+data/*
+!data/.gitkeep
+
+# Output files
+output/*
+!output/.gitkeep
+
+# R specific
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS specific
+.DS_Store
+Thumbs.db 
