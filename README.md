@@ -1,6 +1,6 @@
 # UK Biobank ALPS Mortality Analysis
 
-This repository contains code for analyzing the relationship between Age-related Loss of Phase Synchrony (ALPS) and mortality risk using UK Biobank data.
+This repository contains code for analyzing the relationship between diffusion tensor image analysis along the perivascular space (DTI-ALPS) and mortality risk using UK Biobank data.
 
 ## Project Structure
 
@@ -60,8 +60,8 @@ Analysis results will be saved in the `output/` directory, including:
 
 ## License
 
-[Add your license information here]
+None
 
 ## Contact
 
-[Add your contact information here] 
+None
